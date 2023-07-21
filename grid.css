@@ -1,0 +1,19 @@
+h1, h2, h3, h4, h5, h6 {
+  color: rgba(221, 78, 7, 0.929);
+  font-weight: 200;
+  }
+  p{
+    color:black;
+    font-weight: 400;    
+  }
+  
+  .adobe-img{
+    padding: 20px 1px 1px 1px; 
+  }
+
+  .adobe-link{
+    color:crimson;
+    font-weight: 150
+  }
+ 
+  

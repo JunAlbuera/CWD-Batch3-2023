@@ -1,0 +1,9 @@
+h1, h2, h3, h4, h5 {
+color: rgba(221, 78, 7, 0.929);
+font-weight: 500;
+}
+p{
+
+  color:rgba(103, 23, 23, 0.875);
+  font-weight: 600;
+}

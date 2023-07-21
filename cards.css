@@ -1,0 +1,14 @@
+h1, h2, h3, h4, h5, h6 {
+  color: rgba(246, 118, 55, 0.929);
+  font-weight: 200;
+}
+
+.adobe-link {
+  font-size: small;
+  font-weight: 300;
+}
+
+.adobe-stock-content {
+  position: sticky;
+  top: 20px;
+}
